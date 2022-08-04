@@ -1,0 +1,43 @@
+body{
+    font-family: 'Space Mono', monospace;
+    text-align: center;
+    margin: 0%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(33, 33, 33);
+}
+.hero{
+    background-image: url("https://media.giphy.com/media/VHhxQ1mcoRr81VXUpU/giphy.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 4rem;
+}
+
+.btn{
+    padding: .5rem 1rem;
+    background-color: whitesmoke;
+    border: none;
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+    color: rgb(121, 121, 252);
+    font-size: 20px;
+    border-radius: .5rem;
+}
+
+#cta{
+    border-bottom: 4px solid;
+}
+
+#logo{
+    
+    width: 200px;
+}
+
+#header{
+    font-size: 50px;
+    text-shadow: 3px 3px grey;
+}
+
+.terms{
+    font-size: 30px;
+    
+}
